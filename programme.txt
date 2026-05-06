@@ -2,7 +2,5 @@
 
 * Ajouter et modifier des fichiers
 * ajouter d'autres personne au projet ?
-* Voir l'historique
-* Ne pas avoir des merge et des rebase
-* ajout d'utilisateur ?
-* supprimer des commits ?
+* Voir l'historique et vérier qu'il marche
+* Savoir faire des merge et de rebase
